@@ -1,4 +1,4 @@
-👋 Hi, I’m @TomRadford
+👋 Hi, I’m [@TomRadford](https://github.com/TomRadford/)
 
 👀 I’m interested in creating useful application through fullstack development
 
