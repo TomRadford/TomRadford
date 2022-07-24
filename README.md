@@ -1,8 +1,8 @@
 👋 Hi, I’m [@TomRadford](https://github.com/TomRadford/)
 
-👀 I’m interested in creating useful applications that aid the film industy through fullstack development
+👀 I’m interested in creating useful applications with the MERN Stack.
 
-🌱 I’m currently learning to create and test API's with Node and interact with them through SPA's built with React
+🌱 I’m currently learning GraphQL.
 
 💞️ I’m looking to collaborate on project which aid creatives, particularly within film production.
 
