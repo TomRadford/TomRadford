@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning GraphQL.
 
-💞️ I’m looking to collaborate on project which aid creatives, particularly within film production.
+💞️ I’m looking to collaborate on project which aid creatives, particularly within video production.
 
 📫 How to reach me tom@theradford.com
 
