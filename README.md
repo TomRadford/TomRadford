@@ -2,7 +2,7 @@
 
 👀 I’m interested in creating useful applications with the MERN Stack.
 
-🌱 I’m currently learning GraphQL.
+🌱 I’m currently learning GraphQL and NextJS.
 
 💞️ I’m looking to collaborate on projects which aid creatives, particularly within the video production space.
 
