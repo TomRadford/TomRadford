@@ -17,7 +17,7 @@
 <p>Currently, I'm working as a freelancer while looking for junior opportunities as a full-time developer.</p>
 <p>I have a background in film production and am always looking for ways to assist this industry using tech.</p>
 
-<p>My current competencies include React, Redux, Tailwind, Node.js, Express, GraphQL, and Next.js along with Jest and Cypress for testing.</p>
+<p>My current competencies include React, Redux, Tailwind, Node.js, MongoDB, Express, GraphQL, and Next.js along with Jest and Cypress for testing.</p>
 
 <div>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
