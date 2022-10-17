@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m <a href="ttps://github.com/TomRadford/">@TomRadford<a/> </h1>
+<h1>👋 Hi, I’m <a href="ttps://github.com/TomRadford/">Tom!<a/> </h1>
 
 <h3>I'm a full stack developer who has a love for being a part of creating meaningful solutions with tech.</h3>
 
