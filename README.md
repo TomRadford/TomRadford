@@ -1,4 +1,4 @@
-👋 Hi, I’m [@TomRadford](https://github.com/TomRadford/)
+#👋 Hi, I’m [@TomRadford](https://github.com/TomRadford/)
 
 👀 I’m interested in creating useful applications with the MERN Stack.
 
