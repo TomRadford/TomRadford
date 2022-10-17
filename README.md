@@ -1,5 +1,7 @@
 👋 Hi, I’m [@TomRadford](https://github.com/TomRadford/)
 
+[![Tom Radford's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomradford)](https://github.com/anuraghazra/github-readme-stats)
+
 👀 I’m interested in creating useful applications with the MERN Stack.
 
 🌱 I’m currently learning GraphQL and NextJS.
