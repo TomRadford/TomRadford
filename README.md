@@ -44,5 +44,5 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomradford&theme=dark&show_icons=true" alt="Tom Radford's GitHub statistics" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tomradford&theme=dark&show_icons=true" alt="Tom Radford's GitHub statistics" />
 </p>
