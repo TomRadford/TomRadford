@@ -14,7 +14,7 @@
 
 <p>I'm very technically driven and love a good challenge - confident in taking a problem and solving it to the best of my ability, acquiring new skills and competencies as required along the way.</p>
 
-<p>Currently, I'm working as a freelancer while looking for junior opportunities as a full-time developer.</p>
+<p>Currently, I'm working as a Junior Full Stack Developer.</p>
 <p>I have a background in film production and am always looking for ways to assist this industry using tech.</p>
 
 <p>My current competencies include React, Redux, Tailwind, Node.js, MongoDB, Express, GraphQL, and Next.js along with Jest and Cypress for testing.</p>
