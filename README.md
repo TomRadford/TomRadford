@@ -12,7 +12,6 @@
 
 <h3>I'm a full stack developer who has a love for being a part of creating meaningful solutions on the web!</h3>
 
-<p>Currently, I'm working as a front-end developer.</p>
 <p>I have a background in film production and am always looking for ways to further that industry with tech.</p>
 
 <p>My current competencies include Svelte, React, Redux, Tailwind, Node.js, MongoDB, Express, GraphQL, and Next.js along with Jest and Cypress for testing.</p>
