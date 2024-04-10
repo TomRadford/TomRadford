@@ -12,9 +12,13 @@
 
 <h3>I'm a full stack developer who has a love for being a part of creating meaningful solutions on the web!</h3>
 
-<!--
+
 <p>I have a background in film production and am always looking for ways to further that industry with tech.</p>
 
+
+<p>Take a look at some of my work below ✨</p>
+
+<!--
 <div>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
