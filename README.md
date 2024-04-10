@@ -14,8 +14,6 @@
 
 <p>I have a background in film production and am always looking for ways to further that industry with tech.</p>
 
-<p>My current competencies include Svelte, React, Redux, Tailwind, Node.js, MongoDB, Express, GraphQL, and Next.js along with Jest and Cypress for testing.</p>
-
 <div>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" />
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
