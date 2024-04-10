@@ -12,6 +12,7 @@
 
 <h3>I'm a full stack developer who has a love for being a part of creating meaningful solutions on the web!</h3>
 
+<!--
 <p>I have a background in film production and am always looking for ways to further that industry with tech.</p>
 
 <div>
@@ -39,3 +40,4 @@
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tomradford&theme=dark&show_icons=true" alt="Tom Radford's GitHub statistics" />
 </p>
+-->
