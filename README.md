@@ -10,10 +10,10 @@
 </a>
 </div>
 
-<h3>I'm a full stack developer who has a love for being a part of creating meaningful solutions on the web!</h3>
+<h3>I'm a creative who loves being a part of creating meaningful solutions and telling important stories by balancing technical competency with artistic vision.</h3>
 
 
-<p>I have a background in film production and am always looking for ways to further that industry with tech.</p>
+<p>As a problem-orientated technologist,  I thrive at the intersection between art, humans and engineering.</p>
 
 
 <p>Take a look at some of my work below ✨</p>
