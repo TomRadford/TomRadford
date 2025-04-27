@@ -13,7 +13,7 @@
 <h3>I'm a creative who loves being a part of creating meaningful solutions and telling important stories by balancing technical competency with artistic vision.</h3>
 
 
-<p>As a problem-orientated technologist,  I thrive at the intersection between art, humans and engineering.</p>
+<p>As a problem-orientated technologist, I thrive at the intersection between art, humans and engineering.</p>
 
 
 <p>Take a look at some of my work below ✨</p>
