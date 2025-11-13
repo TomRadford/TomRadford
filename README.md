@@ -10,7 +10,7 @@
 </a>
 </div>
 
-<h3>I'm a dev who loves being a part of creating meaningful solutions and telling important stories.</h3>
+<h3>I'm a dev who loves being a part of creating meaningful solutions.</h3>
 
 <p>Take a look at some of my work below ✨</p>
 
