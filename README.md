@@ -14,8 +14,8 @@
 
 <h3>I'm a creative engineer who loves being a part of creating meaningful solutions.</h3>
 
-  <a href="theradford.com">
-THERADFORD.COM 🌍
+<a href="https://theradford.com">
+theradford.com 🌍
 </a>
 
 
